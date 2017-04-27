@@ -1,0 +1,14 @@
+{
+  "name": "jasminpoc",
+  "version": "1.0.0",
+  "description": "Jasmine POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Develdroiders",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
